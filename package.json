@@ -23,6 +23,7 @@
     "typescript": "4.9.4"
   },
   "resolutions": {
-    "legion-ui": "portal:/C:/Users/ditor/Documents/Projects/ditorahard/legion-ui"
-  }
+    "legion-ui": "portal:/Users/macbook/Documents/Projects/telkom/legion-ui"
+  },
+  "packageManager": "yarn@1.22.19"
 }

@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+.pnp.cjs
+.pnp.loader.mjs
 
 # testing
 /coverage
@@ -11,7 +13,7 @@
 #yarn
 /.yarn/
 yarn.lock
-
+package-lock.json
 
 # next.js
 /.next/
